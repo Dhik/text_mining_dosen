@@ -1,0 +1,248 @@
+text,intent
+bisakah kamu membantuku sekarang,help
+aku ingin kamu melakukan sesuatu untukku,help
+bantu aku,help
+aku butuh kamu untuk membantuku,help
+aku butuh bantuanmu,help
+bisakah kamu membantuku,help
+kamu bisa bantu saya,help
+tolong ambilkan air,help
+tolong ambilkan baju,help
+tolong ambilkan celana,help
+tolong ambilkan sepatu,help
+tolong rapihkan kursi-kursi itu,help
+bantu aku membawa meja ,help
+tolong tutup pintu itu,help
+Tolong buatkan aku makanan,help
+Maukah kau menggantikanku,help
+Maukah kau membantuku,help
+Tolong bantu sesama,help
+Tolong perbaiki,help
+Tolong turuti semua permintaanku,help
+Maukah kau membimbingku untuk belajar,help
+Tolong temani aku,help
+Tolong cuci semua piring dan gelas,help
+Tolong perbaiki komputer segera,help
+Tolong lunasi hutangku,help
+Tolong ikut aku ke pasar,help
+Maukah kau memberitahukan arah,help
+Maukah kau menolongku ,help
+bisakah kamu mengambilkan pulpen,help
+selamat pagi,greeting
+selamat siang,greeting
+selamat malam,greeting
+selamat datang,greeting
+selamat datang hadirin,greeting
+hai,greeting
+halo,greeting
+permisi,greeting
+hai gadis manis,greeting
+halo semuanya,greeting
+halo dengan siapa saya berbicara,greeting
+selamat siang tuan,greeting
+selamat datang pak,greeting
+selamat datang bu,greeting
+selamat sore,greeting
+hai pemirsa,greeting
+selamat pagi anak-anak,greeting
+selamat datang rekan-rekan,greeting
+selamat sore teman-teman,greeting
+sudah lama tidak bertemu,greeting
+senang bertemu dengan kamu,greeting
+sudah lama tidak bertemu,greeting
+assalamualaikum,greeting
+assalamualaikum wr wb,greeting
+assalamualaikum warahmatullahi wabarakatu,greeting
+bisa bicara?,greeting
+apakah kamu ada waktu,greeting
+apa bisa bicara dengan saya,greeting
+selamat tinggal,greeting
+ayo pergi,persuasif
+ayo ikut,persuasif
+ayo menanam pohon,persuasif
+ayo mulai hidup sehat,persuasif
+ayo budidaya ikan,persuasif
+ayo makan,persuasif
+ayo minum,persuasif
+ayo bersama-sama berantas narkoba,persuasif
+ayo selesaikan tugasmu,persuasif
+mari kita lestarikan hewan langka,persuasif
+buang sampah pada tempatnya,persuasif
+ayo olahraga teratur,persuasif
+mari belajar dengan giat,persuasif
+marilah kita membersihkan lingkungan,persuasif
+ayo berangkat,persuasif
+kamu membuatku kesal,annoying
+kamu sangat menyebalkan,annoying
+kamu sangat menggangguku,annoying
+kamu menjengkelkan,annoying
+kamu mengganggu aku,annoying
+kamu menjengkelkan sekali,annoying
+aku kesal,annoying
+aku jengkel,annoying
+aku sebal,annoying
+kamu menjengkelkan sekali,annoying
+sangat menggangu,annoying
+aku terganggu,annoying
+Cukup aku tidak ingin mendengarkanmu,annoying
+kamu mengecewakan,annoying
+aku kecewa,annoying
+aku tidak peduli denganmu,annoying
+omong kosong,annoying
+aku tidak ingin melihatmu,annoying
+tutup mulutmu,annoying
+kamu berisik,annoying
+bisa-bisanya kau mempermainkanku,annoying
+kau menipuku,annoying
+dasar pembohong,annoying
+kamu membuatku marah,annoying
+aku kesal sekali,annoying
+aku sangat kecewa,annoying
+aku sangat kecewa padamu,annoying
+aku kesal padamu,annoying
+aku tidak akan mendengarkan kamu lagi,annoying
+hari ini cuaca terlihat panas,weather
+matahari terik menyinari bumi,weather
+"saat cuaca panas, saya menjemur pakaian",weather
+cuaca hari ini hujan,weather
+awannya mendung,weather
+saya memakai jaket karena dingin,weather
+ketika pulang saya kehujanan,weather
+cuaca buruk sekali,weather
+warga waspada cuaca ekstrem,weather
+mataharinya silau sekali,weather
+pepohonan basah,weather
+cuaca tak menentu,weather
+angin berhembus kencang,weather
+petir menyambar,weather
+cuaca berawan membuat sore hari terasa sejuk,weather
+pengaruh cuaca buruk menyebabkan sarang penyakit,weather
+sinar matahari bermanfaat bagi kesehatan tulang,weather
+mendung sore ini,weather
+hujan deras membuatku harus menepi,weather
+es di kutub mencair,weather
+hari ini hujan deras,weather
+hujan deras menyebabkan banjir,weather
+rumahku banjir,weather
+tidak ada sinar matahari hari ini,weather
+dingin sekali disini,weather
+panas sekali disini,weather
+gerimis disini,weather
+anginnya sangat kencang sampai pohon tumbang,weather
+titik titik air berjatuhan,weather
+saya suka buah alpukat,like
+saya suka menulis puisi,like
+saya suka musik indie,like
+saya suka minum kopi,like
+boba enak sekali aku suka,like
+aku suka berenang,like
+aku suka membaca novel,like
+aku suka menonton drama korea,like
+aku suka makan mie,like
+hobiku jalan jalan,like
+seblak di warung ini enak sekali,like
+jus ini enak sekali,like
+ayam goreng enak ,like
+wangi kamu harum sekali,like
+aku suka melihat kucing lucu,like
+aku suka ice cream,like
+menonton film kegiatan kesukaanku,like
+aku menyukaimu,like
+terimakasih telah menyukaiku,like
+idolaku lesti,like
+idolaku baim wong,like
+aku suka nonton kontennya baim wong,like
+idolaku nabi muhammad,like
+kamu cantik sekali,like
+bunga mawarnya indah,like
+aku suka makan,like
+aku suka rebahan,like
+aku menyukai seseorang,like
+aku suka membuat kue,like
+sebaiknya perbaiki,suggest
+akan lebih baik jika pulang sore,suggest
+usahakan untuk pulang lebih awal,suggest
+sebaiknya kamu tidak boros,suggest
+akan lebih baik jika kamu menuruti perkataan ibu,suggest
+sebaiknya kamu menyimpan uang di bank,suggest
+sebaiknya kamu tidak tidur larut malam,suggest
+sebaiknya kamu tidak kesiangan,suggest
+seharusnya kamu tidak menggunakan ponsel saat bekerja,suggest
+usahakan datang lebih awal,suggest
+ada baiknya kamu belajar,suggest
+ada baiknya kamu mendengarkan orang tua,suggest
+baiknya sebelum membuat keputusan dipertimbangkan dahulu,suggest
+sebaiknya jangan duduk di depan pintu,suggest
+ada baiknya kita hentikan,suggest
+seharusnya kamu tidak membuat masalah,suggest
+sebaiknya kamu tersenyum,suggest
+baiknya kamu berlibur untuk tenangkan pikiran,suggest
+lebih baik diam di rumah,suggest
+ada baiknya dikaji kembali,suggest
+lebih baik menabung demi masa depan,suggest
+akan lebih baik jika kamu tidak mendengarkan aku,suggest
+sebaiknya kamu berenti merokok,suggest
+sebaiknya kamu di rumah menemani adikmu,suggest
+sebaiknya kamu segera ke dokter,suggest
+sebaiknya masalah ini dirundingkan dahulu,suggest
+sebaiknya kita tidak berpikir negatif,suggest
+sebaiknya kita tidak berburuk sangka,suggest
+lebih baik tidak terburu-buru dalam menyelesaikan pekerjaan,suggest
+kamu siapa,asking
+kamu dimana,asking
+nama kamu siapa,asking
+bolehkah aku bertanya,asking
+apakah kamu manusia,asking
+dengan siapa,asking
+katakan tentang Anda,asking
+mengapa Anda di sini,asking
+apa kepribadian Anda,asking
+gambarkan diri Anda,asking
+kamu itu apa,asking
+siapa kamu,asking
+ini siapa ,asking
+umurmu,asking
+berapa umur platformmu,asking
+berapa umurmu,asking
+umur kamu berapa,asking
+sekarang umur kamu berapa,asking
+berapa umur dia,asking
+kamu sedang apa,asking
+kamu lagi apa,asking
+kamu sedang memikirkan apa,asking
+bagaimana harimu,asking
+bagaimana hari mu,asking
+bagaimana kabarmu,asking
+bagaimana kabar mu,asking
+apa kabar,asking
+apa kamu baik baik saja,asking
+aku bisa bertanya apa kepadamu,asking
+mau pesan apa,order
+saya pesan ,order
+saya ingin memesan seluruh restoran,order
+saya memesan tempat bersama pacar ,order
+bisakah saya memesan tempat untuk 10 orang,order
+saya ingin memesan untuk acara ulang tahun,order
+saya ingin pesan tempat dekat kolam renang,order
+saya ingin pesan makanan cepat saji,order
+pesan semua makanan enak,order
+pesan semua minuman yang diinginkan,order
+pilihkan saya meja yang pemandangannya indah,order
+saya ingin pesan makanan yang direkomendasikan,order
+pesankan makanan padang,order
+bisakah saya makan steak,order
+pesan saja tidak usah banyak tanya,order
+pesankan kamar dengan fasilitas terbaik,order
+saya pesan kamar dengan wifi,order
+saya pesan kamar dekat kolam renang,order
+saya pesan 2 kamar,order
+saya pesan makanan berkuah,order
+saya pesan menu utama hari ini,order
+saya pesan meja di pojok,order
+saya ingen memesan 100 kopi,order
+ingin pesan apa,order
+saya rekomendasikan pesan ayam kremes,order
+saya rekomendasikan pesan jus alpukat,order
+menu hari ini yang bisa dipesan itu ayam bakar sambal matah,order
+"jika saya sebagai pembeli, saya akan pesan menu seafood",order
+pelanggan kami biasanya memesan menu paket 2,order

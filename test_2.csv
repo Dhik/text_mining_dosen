@@ -1,0 +1,349 @@
+text,intent
+bisakah kamu mengajari saya,help
+Tolong pesankan tiket pesawat,help
+Bisakah kamu memesankan tiket kereta,help
+Tolong pesankan kamar hotel untuk satu malam,help
+Bisakah kamu memesankan taksi,help
+Tolong pesankan makanan untuk aku,help
+Tolong pesankan minuman untuk aku,help
+Apa yang harus aku lakukan sekarang,help
+Berikan aku saran ,help
+Berikan aku rekomendasi restoran enak,help
+Berikan aku rekomendasi kafe yang bagus,help
+Berikan aku rekomendasi hotel yang nyaman,help
+Aku harus kemana,help
+Tolong jawab pertanyaan aku,help
+Tolong kerjakan tugas aku,help
+Bantu aku mengerjakan tugas,help
+Bantu aku terjemahkan kata ini,help
+Bisakah kamu diam,help
+Tolong aku,help
+aku butuh bantuanmu,help
+bisakah kamu menutup pintu itu,help
+bantu aku mengangkat meja,help
+bisakah kamu memberikan tumpangan,help
+bisakah kamu membelikanku makanan,help
+butuh pertolongan,help
+selamat tidur,greeting
+bagaimana kabarmu,greeting
+pagi!,greeting
+siang!,greeting
+malam!,greeting
+selalu menyengangkan bertemu anda,greeting
+mengapa aku tidak pernah melihatmu,greeting
+"halo, sobat",greeting
+hei,greeting
+hai sahabat,greeting
+yang terhormat bapak ibu,greeting
+paduka yang mulia,greeting
+yang mulia raja,greeting
+yang mulia ratu,greeting
+apa kabar,greeting
+bagaimana harimu,greeting
+yo,greeting
+lama tak berjumpa,greeting
+hei,greeting
+bagaimana kabar semuanya,greeting
+Sudah lama sekali sejak terakhir kali kita bertemu,greeting
+Selalu menyenangkan bertemu atau melihatmu,greeting
+Bagaimana keadaanmu,greeting
+kemana saja kamu,greeting
+senang bisa beretemu lagi,greeting
+ayo olahraga teratur,persuasif
+mari belajar dengan giat,persuasif
+marilah kita membersihkan lingkungan,persuasif
+ayo berangkat,persuasif
+Ayo terapkan pola hidup sehat,persuasif
+Ayo mulai biasakan hidup sehat,persuasif
+Ayo kita liburan bersama,persuasif
+Ayo berolahraga dengan teratur,persuasif
+Belajarlah dengan giat,persuasif
+mari mulai berolahraga,persuasif
+ayo datang tepat waktu,persuasif
+kerjakan tugas sekarang yuk,persuasif
+ayo jalan-jalan,persuasif
+ayo pergi makan,persuasif
+Ayo ke bali,persuasif
+makan yuk,persuasif
+pergi yuk,persuasif
+belajar yuk,persuasif
+aku tidak mau bertemu denganmu,annoying
+aku sakit hati,annoying
+aku sakit hati melihatmu,annoying
+aku sebal,annoying
+kau pergi sana yang jauh,annoying
+jangan ganggu aku,annoying
+menjijikan sekali kelakuanmu,annoying
+dasar tak tahu malu,annoying
+menyebalkan sekali dia,annoying
+aku jengkel,annoying
+suara kencangmu mengganggu,annoying
+bisa diam tidak,annoying
+jangan membuatku kesal,annoying
+jangan membuatku jengkel,annoying
+jangan dekati aku,annoying
+aku ingin kau menjauh,annoying
+kau mengesalkan,annoying
+kau mengganggu,annoying
+kau menyebalkan,annoying
+jauhi aku,annoying
+pergi dari sini,annoying
+aku marah padamu,annoying
+kau membuatku marah,annoying
+kau menjengkelkan,annoying
+jauh-jauh dari aku,annoying
+air merembes ke rumah,weather
+musim kemarau membuat sawah kering,weather
+bencana kekeringan saat kemarau,weather
+matahari bersinar sepanjang hari saat kemarau,weather
+kurangnya pasokan air saat musim kemarau,weather
+cuaca mendung jadi lembab,weather
+besok akan panas,weather
+cuaca pagi ini dingin dan berkabut,weather
+dingin sekali aku harus tidur,weather
+dingin dingin dimandiin,weather
+nanti masuk angin,weather
+badanku menggigil,weather
+terjadi badai,weather
+hujannya labil,weather
+sepertinya hari ini akan hujan,weather
+sepertinya hari ini akan panas seharian,weather
+cuaca besok akan hujan,weather
+besok akan hujan,weather
+kemarin hujan,weather
+kemarin panas,weather
+semakin malam semakin dingin,weather
+malam hari cuaca menjadi dingin,weather
+tiap hari hujan,weather
+seminggu ini hujan,weather
+sudah lama tidak hujan,weather
+aku suka merajut,like
+aku suka menjahit,like
+warna yang paling indah adalah warna biru,like
+aku suka melihat langit yang berwarna biru,like
+aku suka semuanya,like
+aku suka ungu,like
+bajumu bagus,like
+matamu indah,like
+apapun yang ada pada dirimu indah,like
+aku menyukai apa adanya,like
+hobiku menyukaimu,like
+aku suka bakso,like
+hobiku mendengarkan musik,like
+Aku suka menonton vlog,like
+Aku suka menonton mukbang,like
+Aku suka mamang bakso,like
+aku senang belajar,like
+aku senang bermain,like
+aku menyukai pemandangan disini,like
+aku menyukai banyak hal,like
+aku menyukai tempat yang dingin,like
+aku menyukai makanan yang manis,like
+aku senang bermain bola,like
+aku senang berlari-lari,like
+aku senang melihat pelangi,like
+sebaiknya kamar selalu dibersihkan,suggest
+lebih baik pemerintah mengkaji kembali,suggest
+anda harus mengetuk pintu sebelum memasuki ruangan,suggest
+sebaiknya belajar keras untuk meningkatkan nilai,suggest
+anda harus mencuci tangan sebelum makan,suggest
+sebaiknya tidak meremehkan pendidikan,suggest
+sebaiknya perhatikan ketika guru sedang mengajar,suggest
+lebih baik mengerjakan tugas tepat waktu,suggest
+lebih baik kita tidur sekarang,suggest
+sebaiknya mandi 2 kali sehari agar tidak terkena penyakit,suggest
+saran saya kamu jangan makan makanan cepat saji,suggest
+saran saya kamu belajar lebih giat,suggest
+kalau bisa kamu olahraga teratur,suggest
+saran saya kamu banyak makan sayur,suggest
+saran saya kamu banyak makan buah,suggest
+saya ingin memberimu saran,suggest
+sebaiknya jangan terlalu dekat saat menonton televisi agar tidak mengganggu kesehatan mata,suggest
+ada baiknya peregangan otot sebelum berolahraga,suggest
+sebaiknya periksa kembali barang sebelum pergi,suggest
+seaiknya gunakan pisau tajam untuk memotong buah,suggest
+seharusnya kamu mempunyai data yang mendukung isi laporan,suggest
+sebaiknya menyiapkan bekal sebelum berlibur,suggest
+sebaiknya mengisi bahan bara sebelum perjalanan,suggest
+seharusnya kamu tidur cepat agar tidak terlambat,suggest
+sebaiknya kamu membeli rumah,suggest
+seharusnya kamu lebih menghargai orang lain,suggest
+ada baiknya kamu menceritakan yang sebenarnya,suggest
+seharusnya kamu berkata jujur,suggest
+seharusnya kamu tidak berbohong,suggest
+sebaiknya kamu berkata jujur,suggest
+sebaiknya kamu tidak berbohong,suggest
+sebaiknya kamu melakukan yang terbaik,suggest
+seharusnya kamu tidak membuat masalah semakin rumit,suggest
+usahakan mengajak mertuamu datang kesini,suggest
+ada baiknya pembicaraan ini dihentikan,suggest
+ada baiknya rapat disudahi karena anggota kurang fokus,suggest
+lebih baik lakukan penelitian sebelum mengambil keputusan,suggest
+lebih baik bekerja dengan pelan tapi pasti,suggest
+sebaiknya membuat kerangka sebelum berencana,suggest
+sebaiknya memasak makanan sehat,suggest
+sebaiknya siapkan payung sebelum pergi,suggest
+sebaiknya kamu tidak tidur seharian,suggest
+seharusnya kamu membeli kue di toko yang itu,suggest
+sebaiknya kamu mandi sekarang,suggest
+seharusnya kamu menambahkan gula pada masakanmu,suggest
+lebih baik cuci baju hari ini,suggest
+lebih baik apinya kecil agar tidak gosong,suggest
+lebih baik kamu tersenyum,suggest
+sebaiknya kamu banyak beramal,suggest
+seharusnya kamu selalu beribadah,suggest
+kamu tau dimana aku tidak,asking
+kapan ulang tahunmu,asking
+apa hadiah yang kau inginkan,asking
+kapan kemerdekaan indonesia,asking
+kapan kamu lahir,asking
+kapan ibumu lahir,asking
+kapan ayahmu lahir,asking
+game apa yang seru,asking
+apa nama game yang unik,asking
+mengapa semua ini terjadi,asking
+pukul berapa sekarang,asking
+apa yang sebenarnya terjadi,asking
+sudah berapa lama kamu tinggal di kampung,asking
+kapan tanggal lahirmu,asking
+apa pekerjaanmu,asking
+apa pekerjaan ayah,asking
+apa pekerjaan ibu,asking
+bagaimana cara memasak nasi goreng,asking
+bagaimana cara memberikan komentar yang baik,asking
+siapa yang membawakan makanan ini,asking
+kamu sekolah dimana,asking
+jam berapa restoran ini buka,asking
+berapa harga makanan di restoran tersebut,asking
+bagaimana cara memesan tiket bioskop,asking
+bagaimana cara memesan tiket pesawat,asking
+bagaimana cara memesan tiket kereta,asking
+makanan ini terbuat dari apa,asking
+dimana tempat membeli baju,asking
+makanan apa yang tersedia di restoran ini,asking
+bagaimana cara menggunakan mesin cuci,asking
+kapan kamu lahir,asking
+bagaimana cara membuat kue,asking
+berapa harga kamar hotel per malam,asking
+kapan mall ini tutup,asking
+bagaimana cara terhindar dari Covid-19,asking
+apa yang harus aku lakukan,asking
+bagaimana cara agar menjadi kurus,asking
+bagaimana cara agar menjadi gendut,asking
+bagaimana cara mengobati demam,asking
+bagaimana ciri ciri terinfeksi Covid-19,asking
+mengapa saya batuk,asking
+mengapa saya bersin,asking
+apakah hari ini akan hujan,asking
+apakah hari ini akan cerah,asking
+apa yang dipersiapkan untuk pergi ke pantai,asking
+apa yang dipersiapkan untuk pergi ke gunung,asking
+bagimana cara memesan hotel,asking
+bagaimana cara memesan restoran,asking
+bagaimana cara memesan gojek,asking
+mengapa tanganmu,asking
+apa yang terjadi dengan dirimu,asking
+apa menu yang dapat saya pilih,asking
+apa menu yang menjadi rekomendasi,asking
+rekomendasikan kopi yang enak,asking
+berapa harga makanan ini,asking
+berapa harga minuman,asking
+berapa harga baju,asking
+berapa harga celana,asking
+apakah ini dijual,asking
+apakah saya bisa membeli barang ini,asking
+apakah kamu berpuasa,asking
+apa agamamu,asking
+kamu masuk agama apa,asking
+kamu sekolah dimana,asking
+kamu kuliah dimana,asking
+kapan ibu pergi,asking
+apa kamu sakit,asking
+bagaimana keadaanmu,asking
+dimana tempat membeli obat,asking
+bagaimana cara membuat kue,asking
+bagaimana cara membuat kopi,asking
+bagaimana cara membuat ayam goreng,asking
+siapa yang memiliki jaket ,asking
+bisakah saya pinjam pulpenmu sebentar,asking
+apa kau memiliki uang,asking
+ada apa denganmu,asking
+mengapa kau termenung,asking
+mengapa kau bersedih,asking
+apa harimu berjalan dengan baik,asking
+bagaimana peristiwa itu terjadi,asking
+kapan acara diadakan,asking
+mengapa kemarin kau tidak datang,asking
+apa penyebabnya,asking
+apa kau percaya padaku,asking
+bagaimana jika kita bertemu,asking
+dimana kamu saat hal itu terjadi,asking
+kapan tepatnya kejadian itu,asking
+siapa yang memulai keributan,asking
+apa kamu akan berangkat sekolah,asking
+siapa yang melatihmu,asking
+apa hatimu terbuat dari batu,asking
+apa yang kau rasakan,asking
+apa kita bisa melewati semua ujian,asking
+mengapa banjir terjadi,asking
+bagaimana proses terjadinya hujan,asking
+mengapa tidak ada yang peduli padaku,asking
+mengapa hidup ini tidak adil,asking
+mengapa aku selalu sendiri,asking
+mengapa hidupku menyedihkan,asking
+mengapa saya ditolak,asking
+apa yang harus dilakukan agar kau memaafkan,asking
+bagaimana cara mengobati demam,asking
+dimana tempat untuk berobat,asking
+paket 2 saya rekomendasikan untuk dipesan,order
+paket 1 cocok dipesan oleh anak,order
+saya ingin makanan yang pedas,order
+saya ingin makanan yang tidak pedas,order
+saya ingin memesan tiket kereta pukul 4 sore,order
+saya ingin memesan tiket kereta yang economy class,order
+saya ingin membeli gaun yang indah,order
+saya ingin membeli jas yang keren,order
+saya ingin memesan kamar yang indah untuk bulan madu,order
+saya pesan gedung yang besar untuk pernikahan,order
+saya pesan 1000 porsi untuk tamu pernikahan,order
+aku ingin memesan spa untuk 2 orang,order
+aku pesan 2 kursi di bioskop,order
+aku ingin pesan tiket film,order
+menurut saya pakaian ini cocok untuk anda pesan,order
+berikan pilihan desain gaun yang dapat saya pesan,order
+pesankan gaun sesuai ukuran saya,order
+pesankan kalung emas yang cocok untuk melamar,order
+pesankan anting untuk anak-anak,order
+berikan pilihan perhiasan untuk ibu,order
+rekomendasikan gelang untuk sahabat,order
+saya ingin pesan cincin untuk pernikahan,order
+saya pesan seluruh gedung pernikahan,order
+ingin membayar pesanan ,order
+pembayaran pesanan menggunakan apa,order
+saya akan membayar pesanan,order
+apakah tidak ingin melakukan pemesanan lagi,order
+anda yakin tidak akan memesan,order
+apakah anda membatalkan pesanan,order
+tidak bisa membatalkan pesanan jika sudah makan,order
+saya ingin membatalkan pesanan,order
+aku tidak ingin pesan,order
+makanan yang saya pesan tidak enak,order
+jangan pesan makanan itu,order
+saya pesan baju yang jahitannya jelek,order
+saya pesan baju yang membuat saya terlihat kurus,order
+saya pesan baju yang membuat saya terlihat gemuk,order
+saya ingin kamar yang memiliki fasilitas air hangat,order
+silahkan memilih kamar yang akan dipesan,order
+saya sarankan memesan kamar yang berada dekat pantai,order
+saya ingin model rambut bob,order
+saya pesan air zam zam,order
+saya pesan es teh manis,order
+berikan saya menu,order
+bisakah saya memesan baju yang dipakai Yoona SNSD,order
+apakah baju yang dipesan Justin Bieber telah habis,order
+aku pesan air ,order
+aku pesan martabak ,order
+aku ingin potong rambut jam 3 sore,order
+Saya ingin membeli kulkas 2 pintu,order
+Saya ingin membeli kasur yang mewah,order
+Saya ingin membeli kebaya,order
